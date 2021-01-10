@@ -13,7 +13,6 @@
 [![mysmarthub@ya.ru](https://img.shields.io/static/v1?label=email&message=mysmarthub@ya.ru&color=blue)](mailto:mysmarthub@ya.ru)
 [![https://pypi.org/user/hackband/](https://img.shields.io/static/v1?label=PyPi&message=profile&color=blue)](https://pypi.org/user/hackband/)
 [![https://sourceforge.net/u/myhackband/profile](https://img.shields.io/static/v1?label=sourceforge&message=profile&color=blue)](https://sourceforge.net/u/myhackband/profile)
-[![https://sourceforge.net/u/myhackband/profile](https://img.shields.io/static/v1?label=sourceforge&message=profile&color=blue)](https://sourceforge.net/u/myhackband/profile)
 
 ---
 > If you like my projects, you can support me financially - 
