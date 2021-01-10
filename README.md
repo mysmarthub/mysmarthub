@@ -23,7 +23,7 @@
     specialist in computer security, 
     data recovery.
     
-    I speak at different levels:
+    In the development process, I use:
     ----------------------------
 
     Python, Django, Flask, DRF,
@@ -37,7 +37,7 @@
 
 ---
 > If you like my projects, you can support me financially - 
-> " for an apartment or a refrigerator box)"
+> " for an apartment in Moscow or a hut in the taiga) ..."
 
 [![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
 [![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
