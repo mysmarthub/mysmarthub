@@ -3,12 +3,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/mysmarthub?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/mysmarthub?style=social)
-[![My Cleaner](https://img.shields.io/pypi/dm/mycleaner?label=My%20Cleaner%20PyPi)](https://pypi.org/project/mycleaner/)
-[![sfd](https://img.shields.io/pypi/dm/sfd?label=Smart%20Files%20Destroyer%20PyPi)](https://pypi.org/project/sfd/)
-[![Smart Cleaner](https://img.shields.io/pypi/dm/smartcleaner?label=Smart%20Cleaner%20PyPi)](https://pypi.org/project/smartcleaner/)
-[![Commandoro](https://img.shields.io/pypi/dm/commandoro?label=Commandoro%20PyPi)](https://pypi.org/project/commandoro/)
-[![My Cleaner](https://img.shields.io/pypi/dm/linuxautofix?label=Linux%20Auto%20Fix%20PyPi)](https://pypi.org/project/linuxautofix/)
 
+---
+[PyPi:](https://pypi.org/user/hackband/)
+---
+[![My Cleaner](https://img.shields.io/pypi/dm/mycleaner?label=My%20Cleaner)](https://pypi.org/project/mycleaner/)
+[![sfd](https://img.shields.io/pypi/dm/sfd?label=Smart%20Files%20Destroyer)](https://pypi.org/project/sfd/)
+[![Smart Cleaner](https://img.shields.io/pypi/dm/smartcleaner?label=Smart%20Cleaner)](https://pypi.org/project/smartcleaner/)
+[![Commandoro](https://img.shields.io/pypi/dm/commandoro?label=Commandoro)](https://pypi.org/project/commandoro/)
+[![My Cleaner](https://img.shields.io/pypi/dm/linuxautofix?label=Linux%20Auto%20Fix)](https://pypi.org/project/linuxautofix/)
+
+---
     I am Aleksandr Suvorov
     
     Python programmer, specialist in computer security, 
