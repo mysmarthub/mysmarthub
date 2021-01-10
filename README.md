@@ -13,11 +13,23 @@
 [![Commandoro](https://img.shields.io/pypi/dm/commandoro?label=Commandoro)](https://pypi.org/project/commandoro/)
 [![My Cleaner](https://img.shields.io/pypi/dm/linuxautofix?label=Linux%20Auto%20Fix)](https://pypi.org/project/linuxautofix/)
 
+[More detailed monitoring page for some projects...](https://github.com/mysmarthub/appinfo)
+
 ---
     I am Aleksandr Suvorov
+    -----------------------
     
-    Python programmer, specialist in computer security, 
+    Python programmer, system administrator, 
+    specialist in computer security, 
     data recovery.
+    
+    I speak at different levels:
+    ----------------------------
+
+    Python, Django, Flask, DRF,
+    Linux, shell, Git, Pycharm, Docker
+    SQL, Postgresql, sqlite3, Mysql,
+    Html5, CSS3, jquery, bootstrap, jinja2
 
 [![mysmarthub@ya.ru](https://img.shields.io/static/v1?label=email&message=mysmarthub@ya.ru&color=blue)](mailto:mysmarthub@ya.ru)
 [![https://pypi.org/user/hackband/](https://img.shields.io/static/v1?label=PyPi&message=profile&color=blue)](https://pypi.org/user/hackband/)
