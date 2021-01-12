@@ -16,15 +16,15 @@
 [More detailed monitoring page for some projects...](https://github.com/mysmarthub/appinfo)
 
 ---
-    I am Aleksandr Suvorov
-    -----------------------
+    My name is Aleksandr Suvorov.
+    ---------------------------------
     
     Python programmer, system administrator, 
     specialist in computer security, 
     data recovery.
     
     In the development process, I use:
-    ----------------------------
+    ---------------------------------
 
     Python, Django, Flask, DRF,
     Linux, shell, Git, Pycharm, Docker
@@ -44,4 +44,4 @@
 [![Donate](https://img.shields.io/static/v1?label=donate&message=4048-4150-0400-5852&color=blue)](https://yoomoney.ru/to/4100115206129186)
 
 ---
-    I'm looking for a job...
+    I'm on a search a job.
