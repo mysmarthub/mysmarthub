@@ -12,6 +12,7 @@
 [![Smart Cleaner](https://img.shields.io/pypi/dm/smartcleaner?label=Smart%20Cleaner)](https://pypi.org/project/smartcleaner/)
 [![Commandoro](https://img.shields.io/pypi/dm/commandoro?label=Commandoro)](https://pypi.org/project/commandoro/)
 [![My Cleaner](https://img.shields.io/pypi/dm/linuxautofix?label=Linux%20Auto%20Fix)](https://pypi.org/project/linuxautofix/)
+[![My Cleaner](https://img.shields.io/pypi/dm/smartpassgen?label=Smart%20Pass%20Gen)](https://pypi.org/project/smartpassgen/)
 
 [More detailed monitoring page for some projects...](https://github.com/mysmarthub/appinfo)
 
