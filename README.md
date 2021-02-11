@@ -5,6 +5,15 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/mysmarthub?style=social)
 
 ---
+
+> If you like my projects, you can support me financially - 
+> " for an apartment in Moscow or a hut in the taiga) ..."
+
+[![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=4048-4150-0400-5852&color=blue)](https://yoomoney.ru/to/4100115206129186)
+
+---
 [PyPi:](https://pypi.org/user/hackband/)
 ---
 [![My Cleaner](https://img.shields.io/pypi/dm/mycleaner?label=My%20Cleaner)](https://pypi.org/project/mycleaner/)
@@ -18,32 +27,20 @@
 [More detailed monitoring page for some projects...](https://github.com/mysmarthub/appinfo)
 
 ---
-    My name is Aleksandr Suvorov.
-    ---------------------------------
+    My name is Aleksandr Suvorov
+    --------------------------------------
     
     Python programmer, system administrator, 
     specialist in computer security, 
     data recovery.
     
-    In the development process, I use:
-    ---------------------------------
-
-    Python, Django, Flask, DRF,
-    Linux, shell, Git, Pycharm, Docker
-    SQL, Postgresql, sqlite3, Mysql,
-    Html5, CSS3, jquery, bootstrap, jinja2
+    I develop console, graphical and web 
+    applications in Python.
 
 [![mysmarthub@ya.ru](https://img.shields.io/static/v1?label=email&message=mysmarthub@ya.ru&color=blue)](mailto:mysmarthub@ya.ru)
 [![https://pypi.org/user/hackband/](https://img.shields.io/static/v1?label=PyPi&message=profile&color=blue)](https://pypi.org/user/hackband/)
 [![https://sourceforge.net/u/myhackband/profile](https://img.shields.io/static/v1?label=sourceforge&message=profile&color=blue)](https://sourceforge.net/u/myhackband/profile)
 
 ---
-> If you like my projects, you can support me financially - 
-> " for an apartment in Moscow or a hut in the taiga) ..."
 
-[![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
-[![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
-[![Donate](https://img.shields.io/static/v1?label=donate&message=4048-4150-0400-5852&color=blue)](https://yoomoney.ru/to/4100115206129186)
-
----
-    I'm on a search a job.
+    In search of an interesting project...
