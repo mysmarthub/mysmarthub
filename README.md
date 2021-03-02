@@ -6,12 +6,11 @@
 
 ---
 
-> If you like my projects, you can support me financially - 
-> " for an apartment in Moscow or a hut in the taiga) ..."
+> If you like my projects, you can support me financially...
 
 [![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
 [![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
-[![Donate](https://img.shields.io/static/v1?label=donate&message=4048-4150-0400-5852&color=blue)](https://yoomoney.ru/to/4100115206129186)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=4048-0250-0089-5923&color=blue)](https://yoomoney.ru/to/4100115206129186)
 
 ---
 [PyPi:](https://pypi.org/user/hackband/)
@@ -27,14 +26,13 @@
 [More detailed monitoring page for some projects...](https://github.com/mysmarthub/appinfo)
 
 ---
-    My name is Aleksandr Suvorov
-    --------------------------------------
+    My name is Aleksandr Suvorov.
+    ---------------------------------------
     
     Python programmer, system administrator, 
-    specialist in computer security, 
-    data recovery.
+    specialist in data recovery.
     
-    I develop console, graphical and web 
+    I develop CLI, GUI and WEB 
     applications in Python.
 
 [![mysmarthub@ya.ru](https://img.shields.io/static/v1?label=email&message=mysmarthub@ya.ru&color=blue)](mailto:mysmarthub@ya.ru)
