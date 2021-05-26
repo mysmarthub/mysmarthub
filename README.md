@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> New projects: [smartlegion](https://github.com/smartlegion)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/mysmarthub?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/mysmarthub?style=social)
